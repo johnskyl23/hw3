@@ -1,0 +1,6 @@
+framework module Pods_cam_rx {
+  umbrella header "Pods-cam_rx-umbrella.h"
+
+  export *
+  module * { export * }
+}
